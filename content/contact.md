@@ -1,6 +1,7 @@
 ---
 title: Contact
 type: contact
+toc: false 
 ---
 
 Have questions or need some help? I’d love to hear from you! Reach out to me directly, and I’ll get back to you as soon as I can.
