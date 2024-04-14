@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: DFIR Compendium - The Digital Forensic & Incident Response Compendium
 
 # import hextra as module
 module:
@@ -18,29 +18,22 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Artefatcs
+      pageRef: /artefatcs
       weight: 1
+    - name: Tools
+      pageRef: /tools
+      weight: 2
     - name: About
       pageRef: /about
-      weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
       weight: 3
-    - name: Search
+    - name: Contact ↗
+      pageRef: /contact
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
 
 params:
   navbar:
