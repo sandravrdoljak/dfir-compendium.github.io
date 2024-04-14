@@ -1,5 +1,4 @@
 ---
-title: Artefacts
 next: windows
 ---
 
