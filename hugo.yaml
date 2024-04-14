@@ -35,7 +35,6 @@ menu:
       params:
         type: search
 
-menu:
   sidebar:
     - name: More
       params:
