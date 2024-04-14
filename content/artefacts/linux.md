@@ -1,9 +1,8 @@
 ---
-title: Demo Page
+title: Linux
 type: docs
-prev: /
-next: docs/folder/
+prev: macOS
 ---
 
-A simple demo page.
+This is the site for the Linux Artefacts
 

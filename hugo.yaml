@@ -19,7 +19,7 @@ markup:
 menu:
   main:
     - name: Artefatcs
-      pageRef: /artefatcs
+      pageRef: /artefacts
       weight: 1
     - name: Tools
       pageRef: /tools

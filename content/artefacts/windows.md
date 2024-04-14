@@ -1,9 +1,8 @@
 ---
-title: Demo Page
+title: Windows Artefacts
 type: docs
-prev: /
-next: docs/folder/
+prev: _index
+next: macos
 ---
 
-A simple demo page.
-
+This is the site for the Windows Artefacts
