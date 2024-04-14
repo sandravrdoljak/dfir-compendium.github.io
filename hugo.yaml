@@ -40,8 +40,8 @@ params:
     displayTitle: true
     displayLogo: false
     logo:
-      path: images/logo1.webp
-      dark: images/logo1.webp
+      path: logo1.webp
+      dark: logo1.webp
       link: /
       width: 40
       height: 20
