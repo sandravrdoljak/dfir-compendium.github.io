@@ -21,7 +21,7 @@ Your role in cybersecurity starts with knowledge. Explore the compendium today t
 
 {{< cards >}}  
   {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="artefacst" title="Artefacts" icon="finger-print" >}}
+  {{< card link="artefacts" title="Artefacts" icon="finger-print" >}}
   {{< card link="tools" title="Tools" icon="cog" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
