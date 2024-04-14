@@ -1,8 +1,9 @@
 ---
-title: Contact
 type: contact
 toc: false 
 ---
+
+## Contact
 
 Have questions or need some help? I’d love to hear from you! Reach out to me directly, and I’ll get back to you as soon as I can.
 

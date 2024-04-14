@@ -2,7 +2,7 @@
 toc: false
 ---
 
-### Welcome to the Forensic Analysis Compendium
+## Welcome to the Forensic Analysis Compendium
 
 Dive into the heart of cybersecurity with the *Digital Forensic Analysis Compendium*, your centralized site for digital forensics analysis on Windows, macOS, and Linux. Whether you're facing down a malware threat for the first time or you're a expert seeking clear information, this is where your journey advances.
 
