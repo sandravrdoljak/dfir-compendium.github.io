@@ -40,13 +40,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-<<<<<<< HEAD
       path: images/logo1.webp
       dark: images/logo1.webp
-=======
-      path: logo1.png
-      dark: logo1.png
->>>>>>> 579786779aa9583400610822babeb27d2443cd9c
       link: /
       width: 40
       height: 20
