@@ -35,18 +35,6 @@ menu:
       params:
         type: search
 
-  sidebar:
-    - name: More
-      params:
-        type: separator
-      weight: 1
-    - name: "About"
-      pageRef: "/about"
-      weight: 2
-    - name: "Hugo Docs ↗"
-      url: "https://gohugo.io/documentation/"
-      weight: 3
-
 params:
   navbar:
     displayTitle: true
@@ -64,11 +52,5 @@ params:
     displayToggle: true
 
   footer:
-    displayCopyright: false
     displayPoweredBy: true
-
-  editURL:
-    enable: false 
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
-
     
