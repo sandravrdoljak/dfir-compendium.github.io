@@ -1,6 +1,5 @@
 ---
-title: About
-type: about
+toc: false
 ---
 
 # Welcome to the Forensic Analysis Compendium
