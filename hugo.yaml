@@ -35,6 +35,19 @@ menu:
       params:
         type: search
 
+menu:
+  sidebar:
+    - name: More
+      params:
+        type: separator
+      weight: 1
+    - name: "About"
+      pageRef: "/about"
+      weight: 2
+    - name: "Hugo Docs ↗"
+      url: "https://gohugo.io/documentation/"
+      weight: 3
+
 params:
   navbar:
     displayTitle: true
