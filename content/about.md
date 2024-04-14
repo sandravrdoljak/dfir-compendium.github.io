@@ -2,8 +2,6 @@
 toc: false
 ---
 
-## Welcome to the Forensic Analysis Compendium
-
 Thanks for stopping by! This is the Forensic Analysis Compendium, your go-to resource for navigating the digital forensics on Windows, macOS, and Linux systems.
 
 ## The Heart of the Matter
