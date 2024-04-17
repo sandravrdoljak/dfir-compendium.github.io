@@ -1,5 +1,6 @@
 ---
 toc: false
+comments: true
 ---
 
 ## Welcome to the Forensic Analysis Compendium
