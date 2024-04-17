@@ -46,7 +46,7 @@ params:
     displayToggle: true
 
   comments:
-    enable: true
+    enable: false
     type: giscus
 
     giscus:
