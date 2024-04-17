@@ -44,4 +44,13 @@ params:
     # light | dark | system
     default: system
     displayToggle: true
-    
+
+  comments:
+    enable: true
+    type: giscus
+
+    giscus:
+      repo: sandravrdoljak/dfir-compendium.github.io
+      repoId: R_kgDOLuBAqw
+      category: General
+      categoryId: DIC_kwDOLuBAq84Cewn6
