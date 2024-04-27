@@ -27,16 +27,30 @@ Guymager is an open-source forensic imager. It provides a simple interface for c
 
 For more information on how to use and create disk images or clone a disk please [visit the official site!](https://guymager.sourceforge.io)
 
+### FTK Imager 
+FTK Imager is a popular tool in digital forensics for acquiring and analysing disk images. It supports a variety of image formats and is capable of creating forensic images of local drives, external storage media and memory. FTK Imager's robust features include the ability to preview files and folders within disk images, facilitating a quick assessment of their relevance to the investigation.
+
+For more information on how to use FTK Imager plese [visit the official site!](https://www.exterro.com/digital-forensics-software/ftk-imager)
+
 {{% /steps %}}
 {{% /details %}}
 
 
-## Examination
-### Tool 2
+{{% details title="Examinaton" closed="true" %}}
+{{% steps %}}
+### Test
 
 
-## Analysis 
-### Tool 3
+
+{{% /steps %}}
+{{% /details %}}
 
 
+{{% details title="Analysis" closed="true" %}}
+{{% steps %}}
+### Test
+
+
+{{% /steps %}}
+{{% /details %}}
 
