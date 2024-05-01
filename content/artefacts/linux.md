@@ -1,8 +1,7 @@
 ---
 title: Linux Artefacts
 type: docs
-prev: macOS
-next: _index
+toc: false
 ---
 
 This is the site for the Linux Artefacts

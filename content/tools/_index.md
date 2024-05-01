@@ -1,12 +1,12 @@
 ---
-
+toc: false
 ---
 
 ## Essential tools
 
-Here you can view a set of tools for digital forensics on Windows, macOS, and Linux. It's not just any list; every tool here has been tested part of the thesis work. So, you can trust they're up for the job when it comes to tackling cybersecurity incidents.
+Here you can view a set of tools for digital forensics on Windows, macOS, and Linux. 
 
-So, go ahead and dive into the list. Whether you're tracing the steps of a complex cyber attack or just looking for some quick answers, these tools are here to make your forensic journey a bit smoother and a lot more effective. Happy investigating!
+Go ahead and dive into the list. Whether you're tracing the steps of a complex cyber attack or just looking for some quick answers, these tools are here to make your forensic journey a bit smoother and a lot more effective. Happy investigating!
 
 ### Explore Tools by Operating System:
 

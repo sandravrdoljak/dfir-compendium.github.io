@@ -1,5 +1,5 @@
 ---
-next: windows
+toc: false
 ---
 
 ## Your Go-To Artifact Guide
