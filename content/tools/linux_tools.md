@@ -2,7 +2,7 @@
 title: Linux Tools
 type: docs
 prev: macOS_tools
-toc: false
+next: _index
 ---
 
 This is the site for the Linux tools
