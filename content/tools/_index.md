@@ -1,5 +1,5 @@
 ---
-next: windows_tools
+
 ---
 
 ## Essential tools
