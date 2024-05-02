@@ -1,6 +1,8 @@
 ---
 title: macOS Tools
 type: docs
+prev: tools/windows_tools
+next: tools/linux_tools
 toc: false
 ---
 
