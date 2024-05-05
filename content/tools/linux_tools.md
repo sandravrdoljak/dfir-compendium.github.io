@@ -3,7 +3,7 @@ title: Linux Tools
 type: docs
 prev: tools/_index
 next: tools/macos_tools
-toc: false
+toc: true
 ---
 
 When analyzing Linux desktop systems, the right tools can greatly simplify the digital forensic analysis process. From initial data collection to investigation and final analysis, each step is important to uncover valuable insights. This guide provides a list of some important forensic analysis tools, organized by their application in the forensic process, with a brief description and additional links to further how-to guides.
