@@ -55,7 +55,7 @@ Reveals insights into planned activities and malware persistence mechanisms, rel
 {{% /details %}}
 
 
-{{% details title="## In-Depth Analysis" closed="true" %}}
+{{% details title="In-Depth Analysis" closed="true" %}}
 {{% steps %}}
 
 ### Thumbcache

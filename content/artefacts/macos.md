@@ -55,7 +55,7 @@ Records active logins and logouts, providing a history of system access.
 {{% /details %}}
 
 
-{{% details title="## In-Depth Analysis" closed="true" %}}
+{{% details title="In-Depth Analysis" closed="true" %}}
 {{% steps %}}
 
 ### Hidden Directories and Files

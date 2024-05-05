@@ -55,7 +55,7 @@ A modern and comprehensive logging system that captures detailed system, applica
 {{% /details %}}
 
 
-{{% details title="## In-Depth Analysis" closed="true" %}}
+{{% details title="In-Depth Analysis" closed="true" %}}
 {{% steps %}}
 
 ### Package Manager Logs
