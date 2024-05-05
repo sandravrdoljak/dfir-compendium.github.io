@@ -69,11 +69,30 @@ ArtifactCollector is a tool that is designed to collect system and application a
 
 For more information on how to use ArtifactCollector, please [visit the official site!](https://github.com/forensicanalysis/artifactcollector)
 
+### CyLR
+
+CyLR is a Live Response Collection Tool designed to simplify and expedite the process of data gathering during digital forensic investigations. It focuses on efficiently collecting critical artifacts from operating systems without the need for pre-installed agents. CyLR's capability to quickly gather essential forensic data makes it a valuable asset for forensic analysts and incident response teams, aiding in rapid response and analysis during security incidents.
+
+For more information on how to use CyLR, please [visit the official site!](https://github.com/orlikoski/CyLR)
+
+### FastIR
+
+FastIR is a live forensic artifacts collector capable of operating across multiple platforms including GNU/Linux, Windows, and Mac OS X. This tool is designed to collect various artifacts rapidly and efficiently, making it an essential utility for live forensic investigations. By collecting data in real time, Fastir provides immediate insights into system activities, helping forensic analysts and incident response teams to quickly assess and respond to potential security incidents.
+
+For more information on how to use FastIR, please [visit the official site!](https://github.com/OWNsecurity/fastir_artifacts)
+
 ### mac_apt
 
 mac_apt is a macOS Artefact Parsing Tool that helps in the forensic analysis of macOS devices. It can extract and parse numerous artefacts from macOS systems, providing insights into user activities, system configuration, and application behaviour.
 
 For more information on how to use mac_apt, please [visit the official site!](https://github.com/ydkhatri/mac_apt)
+
+### Unix-like Artifacts Collector (UAC) 
+
+Unix-like Artifacts Collector (UAC) is an open-source live analysis artefact collection tool. This tool can be used to collect artefacts from AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems.
+
+For more information on how to use UAC, please [visit the official site!](https://github.com/tclahr/uac)
+
 {{% /steps %}}
 {{% /details %}}
 

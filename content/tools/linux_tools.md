@@ -56,6 +56,30 @@ ArtifactCollector is a tool that is designed to collect system and application a
 
 For more information on how to use ArtifactCollector, please [visit the official site!](https://github.com/forensicanalysis/artifactcollector)
 
+### CyLR
+
+CyLR is a Live Response Collection Tool designed to simplify and expedite the process of data gathering during digital forensic investigations. It focuses on efficiently collecting critical artifacts from operating systems without the need for pre-installed agents. CyLR's capability to quickly gather essential forensic data makes it a valuable asset for forensic analysts and incident response teams, aiding in rapid response and analysis during security incidents.
+
+For more information on how to use CyLR, please [visit the official site!](https://github.com/orlikoski/CyLR)
+
+### DFIR Linux Collector
+
+DFIR Linux Collector is a specialised tool designed for the collection of forensic data from GNU/Linux systems. This stand-alone tool is tailored for incident response teams, emphasising minimal impact on the host system during data collection. The DFIR Linux Collector dumps artefacts into JSON format, offering a streamlined and efficient method for capturing critical data during forensic investigations or incident responses.
+
+For more information on how to use DFIR Linux Collector, please [visit the official site!](https://github.com/xophidia/DFIR_Linux_Collector)
+
+### FastIR
+
+FastIR is a live forensic artifacts collector capable of operating across multiple platforms including GNU/Linux, Windows, and Mac OS X. This tool is designed to collect various artifacts rapidly and efficiently, making it an essential utility for live forensic investigations. By collecting data in real time, Fastir provides immediate insights into system activities, helping forensic analysts and incident response teams to quickly assess and respond to potential security incidents.
+
+For more information on how to use FastIR, please [visit the official site!](https://github.com/OWNsecurity/fastir_artifacts)
+
+### Unix-like Artifacts Collector (UAC) 
+
+Unix-like Artifacts Collector (UAC) is an open-source live analysis artefact collection tool. This tool can be used to collect artefacts from AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems.
+
+For more information on how to use UAC, please [visit the official site!](https://github.com/tclahr/uac)
+
 {{% /steps %}}
 {{% /details %}}
 
