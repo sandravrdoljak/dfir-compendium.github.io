@@ -11,9 +11,9 @@ Go ahead and dive into the list. Whether you're tracing the steps of a complex c
 ### Explore Tools by Operating System:
 
 {{< cards >}}
-  {{< card link="windows_tools" title="Windows" icon="search" >}}
-  {{< card link="macos_tools" title="macOS" icon="search" >}}
   {{< card link="linux_tools" title="Linux" icon="search" >}}
+  {{< card link="macos_tools" title="macOS" icon="search" >}}
+  {{< card link="windows_tools" title="Windows" icon="search" >}}
 {{< /cards >}}
 
 

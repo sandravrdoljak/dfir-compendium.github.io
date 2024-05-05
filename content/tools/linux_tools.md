@@ -2,7 +2,7 @@
 title: Linux Tools
 type: docs
 prev: tools/_index
-next: tools/_macos_tools
+next: tools/macos_tools
 toc: false
 ---
 

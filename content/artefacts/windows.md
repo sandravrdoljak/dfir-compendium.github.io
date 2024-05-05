@@ -1,6 +1,8 @@
 ---
 title: Windows Artefacts
 type: docs
+prev: artefacts/macos
+next: artefacts/_index
 toc: false
 ---
 

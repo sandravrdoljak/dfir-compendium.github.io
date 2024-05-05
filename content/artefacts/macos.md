@@ -1,6 +1,8 @@
 ---
 title: macOS Artefacts
 type: docs
+prev: artefacts/linux
+next: artefacts/windows
 toc: false
 ---
 

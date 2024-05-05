@@ -12,9 +12,9 @@ I have chosen 15 for a thorough examination, with a special emphasis on 10 that 
 ### Explore Artifacts by Operating System:
 
 {{< cards >}}
-  {{< card link="windows" title="Windows" icon="desktop-computer" >}}
-  {{< card link="macos" title="macOS" icon="desktop-computer" >}}
   {{< card link="linux" title="Linux" icon="desktop-computer" >}}
+  {{< card link="macos" title="macOS" icon="desktop-computer" >}}
+  {{< card link="windows" title="Windows" icon="desktop-computer" >}}
 {{< /cards >}}
 
 

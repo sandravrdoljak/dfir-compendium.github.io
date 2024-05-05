@@ -1,6 +1,8 @@
 ---
 title: Linux Artefacts
 type: docs
+prev: artefacts/_index
+next: artefacts/macos
 toc: false
 ---
 
