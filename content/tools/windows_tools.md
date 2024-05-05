@@ -75,23 +75,11 @@ ArtifactCollector is a tool that is designed to collect system and application a
 
 For more information on how to use ArtifactCollector, please [visit the official site!](https://github.com/forensicanalysis/artifactcollector)
 
-### Dissect
-
-Dissect is a framework designed to simplify the process of digital forensic investigations. It automates the parsing of various forensic artefacts, providing a comprehensive analysis through a modular approach. Dissect aims to streamline the examination process, making it more efficient and less prone to human error.
-
-For more information on how to use Dissect, please [visit the official site!](https://github.com/fox-it/dissect)
-
 ### Eric Zimmermann Tools
 
 Eric Zimmermann Tools are a variety of digital forensic tools created by Eric Zimmerman, tailored for detailed analysis of Windows-based environments. There are tools included such as "KAPE" for efficient artefact extraction, "Registry Explorer" for in-depth registry analysis, and "LogFileParser" for interpreting Windows log files. The suite is distinguished by its user-friendliness and robust analytical capabilities, facilitating thorough forensic investigations with precision and speed.
 
 For more information on how to use Eric Zimmermann Tools, please [visit the official site!](https://ericzimmerman.github.io/#!index.md)
-
-### FLARE Obfuscated String Solver (FLOSS)
-
-FLARE Obfuscated String Solver (FLOSS) is an open-source tool designed to automatically detect, deobfuscate, and extract obfuscated strings from malware binaries. It simplifies the analysis of malware by revealing the hidden code and data, which might be concealed.
-
-For more information on how to use FLOSS, please [visit the official site!](https://github.com/mandiant/flare-floss)
 
 ### KAPE (Kroll Artifact Parser and Extractor)
 

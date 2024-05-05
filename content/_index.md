@@ -2,18 +2,19 @@
 toc: false
 ---
 
-## Welcome to the Forensic Analysis Compendium
+## Welcome to the DFIR Compendium
+### The Digital Forensic & Incident Response Compendium
 
-Dive into the heart of cybersecurity with the *Digital Forensic Analysis Compendium*, your centralized site for digital forensics analysis on Windows, macOS, and Linux. Whether you're facing down a malware threat for the first time or you're a expert seeking clear information, this is where your journey advances.
+Dive into the heart of digital forensic analysis with the *DFIR Compendium*, your centralised site for digital forensic analysis on Windows, macOS, and Linux. Whether you have encountered a malware infection or you're a professional seeking more information, this is where your journey advances.
 
 #### What You'll Discover Here
 
-* **Tool Directory:** A list of helpful forensic tools, each accompanied by a brief overview and a link to its official site for in-depth exploration.
-* **Artifact Guidance:** Navigate through the critical first steps of forensic analysis with our structured artifact guidance. Start with key artifacts for an initial overview, followed by a focused look at subsidiary data points, presented with short descriptions to aid quick understanding.
-* **Community Insights:** Engage with the forensic community through Giscus discussions directly on our site. Share your experiences, ask questions, and collaborate on solving the complex puzzles of digital forensics together.
+* **Tool Directory:** A list of forensic tools, each with a short description and a link to the respective offical site.
+* **Artifact Guidance:** Perform the first steps of digital forensic analysis with the structured artifact guide. Start with 10 key artifacts for an initial overview, followed by a more in-depth investigation, using additional artefacts. Each artefact is presented with short descriptions.
+* **Community Insights:** Engage with the forensic community through "Giscus Discussions" directly. Share your experiences, ask questions, and collaborate on solving the complex process of digital forensics together.
 
 #### Empowering Your Cybersecurity Path
-The Forensic Analysis Compendium is more than a resource; it's a starting point for empowerment in the face of digital threats. With easy-to-navigate content and community support, we aim to make the complex world of digital forensics accessible to all.
+The Forensic Analysis Compendium is more than a resource - it's a starting point for digital forensic analysis. With easy-to-navigate content and community support, the aim is to make the complex world of digital forensics accessible to all.
 
 Your role in cybersecurity starts with knowledge. Explore the compendium today to build your understanding, sharpen your skills, and contribute to a safer digital world.
 

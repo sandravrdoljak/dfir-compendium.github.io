@@ -6,7 +6,7 @@ next: tools/macos_tools
 toc: false
 ---
 
-When analyzing macOS desktop systems, the right tools can greatly simplify the digital forensic analysis process. From initial data collection to investigation and final analysis, each step is important to uncover valuable insights. This guide provides a list of some important forensic analysis tools, organized by their application in the forensic process, with a brief description and additional links to further how-to guides.
+When analyzing Linux desktop systems, the right tools can greatly simplify the digital forensic analysis process. From initial data collection to investigation and final analysis, each step is important to uncover valuable insights. This guide provides a list of some important forensic analysis tools, organized by their application in the forensic process, with a brief description and additional links to further how-to guides.
 
 {{% details title="1 Collection" closed="true" %}}
 {{% steps %}}
@@ -56,17 +56,6 @@ ArtifactCollector is a tool that is designed to collect system and application a
 
 For more information on how to use ArtifactCollector, please [visit the official site!](https://github.com/forensicanalysis/artifactcollector)
 
-### Dissect
-
-Dissect is a framework designed to simplify the process of digital forensic investigations. It automates the parsing of various forensic artefacts, providing a comprehensive analysis through a modular approach. Dissect aims to streamline the examination process, making it more efficient and less prone to human error.
-
-For more information on how to use Dissect, please [visit the official site!](https://github.com/fox-it/dissect)
-
-### FLARE Obfuscated String Solver (FLOSS)
-
-FLARE Obfuscated String Solver (FLOSS) is an open-source tool designed to automatically detect, deobfuscate, and extract obfuscated strings from malware binaries. It simplifies the analysis of malware by revealing the hidden code and data, which might be concealed.
-
-For more information on how to use FLOSS, please [visit the official site!](https://github.com/mandiant/flare-floss)
 {{% /steps %}}
 {{% /details %}}
 

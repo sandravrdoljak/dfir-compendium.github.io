@@ -69,18 +69,6 @@ ArtifactCollector is a tool that is designed to collect system and application a
 
 For more information on how to use ArtifactCollector, please [visit the official site!](https://github.com/forensicanalysis/artifactcollector)
 
-### Dissect
-
-Dissect is a framework designed to simplify the process of digital forensic investigations. It automates the parsing of various forensic artefacts, providing a comprehensive analysis through a modular approach. Dissect aims to streamline the examination process, making it more efficient and less prone to human error.
-
-For more information on how to use Dissect, please [visit the official site!](https://github.com/fox-it/dissect)
-
-### FLARE Obfuscated String Solver (FLOSS)
-
-FLARE Obfuscated String Solver (FLOSS) is an open-source tool designed to automatically detect, deobfuscate, and extract obfuscated strings from malware binaries. It simplifies the analysis of malware by revealing the hidden code and data, which might be concealed.
-
-For more information on how to use FLOSS, please [visit the official site!](https://github.com/mandiant/flare-floss)
-
 ### mac_apt
 
 mac_apt is a macOS Artefact Parsing Tool that helps in the forensic analysis of macOS devices. It can extract and parse numerous artefacts from macOS systems, providing insights into user activities, system configuration, and application behaviour.

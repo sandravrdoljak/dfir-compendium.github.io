@@ -3,7 +3,7 @@ title: Essential tools
 toc: false
 ---
 
-Here you can view a set of tools for digital forensics on Windows, macOS, and Linux. 
+Here you can view a set of tools for digital forensic analysis on Windows, macOS, and Linux. 
 
 Go ahead and dive into the list. Whether you're tracing the steps of a complex cyber attack or just looking for some quick answers, these tools are here to make your forensic journey a bit smoother and a lot more effective. Happy investigating!
 

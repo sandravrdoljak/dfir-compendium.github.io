@@ -12,4 +12,4 @@ Have questions or need some help? I’d love to hear from you! Reach out to me d
 
 **Email:** vrdoljak.sandra@hotmail.com
 
-Whether you’re seeking advice, have suggestions for the compendium, or just want to share your thoughts, don’t hesitate to drop me a line. Your insights and feedback are invaluable.
+Whether you’re seeking advice, have suggestions for the compendium, or just want to share your thoughts, don’t hesitate to drop me a line. Your insights and feedback are invaluable. You can also provide feedback by using "Giscus". 
