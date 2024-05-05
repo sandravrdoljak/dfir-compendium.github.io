@@ -49,8 +49,8 @@ params:
     enable: false
     type: giscus
 
-    giscus:
-      repo: sandravrdoljak/dfir-compendium.github.io
-      repoId: R_kgDOLuBAqw
-      category: General
-      categoryId: DIC_kwDOLuBAq84Cewn6
+  giscus:
+    repo: sandravrdoljak/dfir-compendium.github.io
+    repoId: R_kgDOLuBAqw
+    category: General
+    categoryId: DIC_kwDOLuBAq84Cewn6
