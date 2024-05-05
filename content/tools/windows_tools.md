@@ -1,7 +1,8 @@
 ---
 title: Windows Tools
 type: docs
-next: tools/macos_tools
+prev: tools/macos_tools
+next: tools/_index
 toc: false
 ---
 
