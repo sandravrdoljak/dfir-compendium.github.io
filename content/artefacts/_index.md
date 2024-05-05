@@ -1,8 +1,7 @@
 ---
+title: Your Go-To Artifact Guide
 toc: false
 ---
-
-## Your Go-To Artifact Guide
 
 Welcome to the heart of our forensic toolkit.
 I have pinpointed 25 crucial artifacts for forensic analysis across Windows, macOS, and Linux systems. This selection emerged from research, practical analysis and testing conducted during the thesis, aiming to highlight the artifacts that give the most significant insights for cybersecurity incidents.

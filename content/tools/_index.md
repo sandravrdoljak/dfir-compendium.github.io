@@ -1,8 +1,7 @@
 ---
+title: Essential tools
 toc: false
 ---
-
-## Essential tools
 
 Here you can view a set of tools for digital forensics on Windows, macOS, and Linux. 
 
