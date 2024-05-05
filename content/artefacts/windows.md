@@ -8,8 +8,7 @@ toc: false
 
 When analyzing Windows desktop systems, the deciding on which artefacts to look at first, can be a hard task. From "Account Usage" to "File and Folder Opening/Sharing" artefacts, choosing the right ones, that give the best insight is not always easy. This guide provides a list of 10 artefacts best suited for the getting a good initial overview of a security incident. The second subset of 10 artefacts, are the additional artefacts, which are "optional", aim to provide more in-depth insights.
 
-## Initial Analysis
-
+{{% details title="Initial Analysis" closed="true" %}}
 {{% steps %}}
 
 ### Windows Security Event Logs - ID 4624, ID 4625, ID 4648, ID 4720 and ID 4778
@@ -53,11 +52,10 @@ Offers insights into deleted data, providing evidence of potential attempts to c
 Reveals insights into planned activities and malware persistence mechanisms, relevant for identifying unauthorized or malicious configurations.
 
 {{% /steps %}}
+{{% /details %}}
 
 
-
-## In-Depth Analysis
-
+{{% details title="## In-Depth Analysis" closed="true" %}}
 {{% steps %}}
 
 ### Thumbcache
@@ -101,3 +99,4 @@ Crucial for understanding both system performance and potential security threats
 Valuable source for understanding user intent and locating artefacts that might not be directly visible in the file system, thus providing a deeper insight into user activity and interests.
 
 {{% /steps %}}
+{{% /details %}}

@@ -8,8 +8,7 @@ toc: false
 
 When analyzing macOS desktop systems, the deciding on which artefacts to look at first, can be a hard task. From "Account Usage" to "File and Folder Opening/Sharing" artefacts, choosing the right ones, that give the best insight is not always easy. This guide provides a list of 10 artefacts best suited for the getting a good initial overview of a security incident. The second subset of 10 artefacts, are the additional artefacts, which are "optional", aim to provide more in-depth insights.
 
-## Initial Analysis
-
+{{% details title="Initial Analysis" closed="true" %}}
 {{% steps %}}
 
 ### Application Directory
@@ -53,11 +52,10 @@ Provides insight into the most recently accessed applications and files, helpful
 Records active logins and logouts, providing a history of system access.
 
 {{% /steps %}}
+{{% /details %}}
 
 
-
-## In-Depth Analysis
-
+{{% details title="## In-Depth Analysis" closed="true" %}}
 {{% steps %}}
 
 ### Hidden Directories and Files
@@ -101,3 +99,4 @@ Provides information on deleted files or files marked for deletion.
 List of current processes running on the system.
 
 {{% /steps %}}
+{{% /details %}}

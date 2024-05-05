@@ -8,8 +8,7 @@ toc: false
 
 When analyzing Linux desktop systems, the deciding on which artefacts to look at first, can be a hard task. From "Account Usage" to "File and Folder Opening/Sharing" artefacts, choosing the right ones, that give the best insight is not always easy. This guide provides a list of 10 artefacts best suited for the getting a good initial overview of a security incident. The second subset of 10 artefacts, are the additional artefacts, which are "optional", aim to provide more in-depth insights.
 
-### Initial Analysis
-
+{{% details title="Initial Analysis" closed="true" %}}
 {{% steps %}}
 
 ### Authentication logs (/var/log/auth.log)
@@ -53,11 +52,10 @@ Logs software installations and removals, aiding in understanding system changes
 A modern and comprehensive logging system that captures detailed system, application, and user events.
 
 {{% /steps %}}
+{{% /details %}}
 
 
-
-## In-Depth Analysis
-
+{{% details title="## In-Depth Analysis" closed="true" %}}
 {{% steps %}}
 
 ### Package Manager Logs
@@ -101,3 +99,4 @@ Essential for examining incoming and outgoing connections, aiding in network tra
 Provides a glimpse into user saved files and download activities.
 
 {{% /steps %}}
+{{% /details %}}
