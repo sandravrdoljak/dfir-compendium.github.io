@@ -1,1 +1,1 @@
-Hello and welcome to "Digital Forensic Analysis Compendium"!
+Hello and welcome to "The Digital Forensic & Incident Response Compendium"!
