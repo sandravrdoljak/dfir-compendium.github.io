@@ -11,19 +11,19 @@ When analyzing Linux desktop systems, the deciding on which artefacts to look at
 {{% details title="Initial Analysis" closed="true" %}}
 {{% steps %}}
 
-### Authentication logs (/var/log/auth.log)
+### Authentication logs
 
-Vital for identifying authentication attempts and security breaches.
+Vital for identifying authentication attempts and security breaches. Can be found in "var/log/auth.log".
 
 ### Bash History
 
 Offers insights into command line operations, crucial for understanding user or administrative actions.
 
-### System logs (/var/log/syslog)
+### System Logs
 
-Central repository for system activities, indispensable for a broad overview of system operations.
+Central repository for system activities, indispensable for a broad overview of system operations. Can be found in "/var/log/syslog". 
 
-### Cron jobs and systemd timers
+### Scheduled Tasks 
 
 Scheduling mechanisms, key for identifying automated tasks and potential malicious activities.
 
@@ -31,23 +31,23 @@ Scheduling mechanisms, key for identifying automated tasks and potential malicio
 
 Critical for understanding network setups and potential misconfigurations.
 
-### Browser, Cache, Cookies, Downloads and History
+### Browser Downloads & History
 
 Provides a comprehensive view of the user's online activities and interests.
 
-### User Account Information and Passwords (/etc/passwd and /etc/shadow)
+### User Account Information and Passwords
 
-Fundamental for assessing system access controls and user privileges.
+Fundamental for assessing system access controls and user privileges. Can be found in  "/etc/passwd" and "/etc/shadow". 
 
-### Audit logs (/var/log/audit/audit.log)
+### Audit Logs
 
-Detailed record of system events, essential for security auditing and incident response.
+Detailed record of system events, essential for security auditing and incident response. Can be found in "/var/log/audit/audit.log".
 
-### Installed Programs (/var/log/dpkg.log)
+### Installed Programs 
 
-Logs software installations and removals, aiding in understanding system changes and potential unauthorised software.
+Logs software installations and removals, aiding in understanding system changes and potential unauthorised software. Can be found in "/var/log/dpkg.log".
 
-### Systemd journal
+### Systemd Journal
 
 A modern and comprehensive logging system that captures detailed system, application, and user events.
 
@@ -62,39 +62,35 @@ A modern and comprehensive logging system that captures detailed system, applica
 
 Tracks package management activities, useful for identifying system updates and installations.
 
-### Scheduled Tasks (/etc/cron.d/)
+### Failed Login Attempts
 
-Details periodic tasks, revealing insights into system maintenance routines or malware persistence.
-
-### PAM Configuration (/etc/pam.d/)
-
-Key for understanding authentication mechanisms and security policies.
-
-### Stored Credentials
-
-Reveals saved login information, indicating user accounts and services utilized.
+Reveals failed login information.
 
 ### Recycle Bin
 
 Contains deleted files, providing clues about user actions and attempts to conceal activities.
 
-### Preloads Libraries (/etc/ld.so.preload and LD_PRELOAD)
+### Preloads Libraries
 
-Can indicate alterations to standard binary executions, relevant for investigating unauthorized modifications.
+Can indicate alterations to standard binary executions, relevant for investigating unauthorized modifications. Can be found in "/etc/ld.so.preload" and "LD_PRELOAD".
 
-### .Xauthority files
+### Kernel Logs 
 
-Pertinent for session authentication, especially in graphical user environments.
+Dedicated to kernel messages, important for diagnosing hardware and driver issues. Can be found in "/var/log/kern.log". 
 
-### /var/log/boot.log
+### Startup Scripts
 
-Logs startup messages, useful for identifying issues during system boot.
+"Startup Scripts" are scripts that automatically start upon login. Can be found in "/etc/init.d".
+
+### Startup Messages
+
+Logs startup messages, useful for identifying issues during system boot. Can be found in "/var/log/boot.log" and since the Ubuntu version 16.04 "journald" is used for the logging.
 
 ### Network Connection Logs
 
 Essential for examining incoming and outgoing connections, aiding in network traffic analysis.
 
-### Desktop and Downloads Directories
+### Desktop & Downloads Directories
 
 Provides a glimpse into user saved files and download activities.
 
